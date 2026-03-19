@@ -1,5 +1,7 @@
 #  Code blessed by the Machine Spirit. ⚙
-
+<!--
+[![committers.top badge](https://user-badge.committers.top/finland_public/USERNAME.svg)](https://user-badge.committers.top/finland_public/USERNAME)
+-->
 Welcome to my GitHub profile!
 
 - Currently Studying at [**Hive Helsinki**](https://www.hive.fi/en) 
