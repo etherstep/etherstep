@@ -1,6 +1,7 @@
 #  Code blessed by the Machine Spirit. ⚙
 
 [![committers.top badge](https://user-badge.committers.top/finland_public/etherstep.svg)](https://user-badge.committers.top/finland_public/etherstep)
+[![committers.top badge](https://user-badge.committers.top/finland_private/etherstep.svg)](https://user-badge.committers.top/finland_private/etherstep)
 
 - Currently Studying at [**Hive Helsinki**](https://www.hive.fi/en)
 
