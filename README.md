@@ -2,15 +2,16 @@
 <!--
 [![committers.top badge](https://user-badge.committers.top/finland_public/USERNAME.svg)](https://user-badge.committers.top/finland_public/USERNAME)
 -->
-Welcome to my GitHub profile!
 
-- Currently Studying at [**Hive Helsinki**](https://www.hive.fi/en) 
+- Currently Studying at [**Hive Helsinki**](https://www.hive.fi/en)
+
+
 <!--
   <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42white.png#gh-dark-mode-only" alt="42" width="20" height="20"/>
   <img src="https://raw.githubusercontent.com/usvapel/usvapel/main/assets/icons/42black.png#gh-light-mode-only" alt="42" width="20" height="20"/>
--->  
+  
 - [**Hive projects**](https://github.com/usvapel/Hive_Helsinki_Projects)
-
+-->
 ---
 
 <div align="center">
@@ -97,7 +98,7 @@ Welcome to my GitHub profile!
 -->
 &nbsp;
 
----
+
 
 <!--## Projects
 
