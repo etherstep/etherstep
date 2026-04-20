@@ -20,6 +20,14 @@ Welcome to my GitHub profile!
 </div>
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src=
+"https://skillicons.dev/icons?i=linux,bash,git,c,cpp,neovim,vscode,visualstudio,godot,gamemakerstudio,unity,ableton&perline=6"/>
+  </a>
+</p>
+
+<!--
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://devicon-website.vercel.app/api/c/original.svg">
@@ -86,7 +94,7 @@ Welcome to my GitHub profile!
     </picture>
   </a>
 </p>
-
+-->
 &nbsp;
 
 ---
