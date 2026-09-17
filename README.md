@@ -1,6 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/finland_public/etherstep.svg)](https://user-badge.committers.top/finland_public/etherstep)
 <!-- [![committers.top badge](https://user-badge.committers.top/finland_private/etherstep.svg)](https://user-badge.committers.top/finland_private/etherstep) -->
-
+<!--
 <div align="center">
   
 ## What I work with
@@ -41,3 +41,4 @@
 ![FL Studio](https://img.shields.io/badge/FL_Studio-F24E1E?style=for-the-badge&logo=flstudio&logoColor=white)
 
 </div>
+-->
